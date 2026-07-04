@@ -6,10 +6,10 @@
 Открой раздел **Releases** и скачай последнюю версию `GlubinkaMP-PublicSDK`.
 
 ## Что внутри
-- `Lib`
-- `Templates`
-- `Examples`
-- `Docs`
+- `Lib` — `GlubinkaMP.SDK.dll` и `GlubinkaMP.SDK.xml` (документация для IntelliSense)
+- `Templates` — шаблоны для быстрого старта
+- `Examples` — примеры ресурсов
+- `Docs` — офлайн-документация
 
 ## Как начать
 1. Скачай ZIP из Releases
@@ -17,6 +17,24 @@
 3. Прочитай `QuickStart.md`
 4. Используй `Templates` и `Examples` как основу для своих ресурсов
 
+## 📚 Онлайн-документация
+
+Полная документация по SDK, событиям, командам и CEF UI:
+
+- [Главная страница документации](https://glubinkamp.github.io/GlubinkaMP-Docs/)
+
+Основные разделы:
+- Getting Started — как создать первый ресурс
+- Player / Players — работа с игроками
+- Vehicle — работа с транспортом
+- World — погода, время, данные мира
+- Chat — сообщения и уведомления
+- Blip / Marker / TextLabel / ColShape — объекты в мире
+- Config / Logger — утилиты
+- Enums — справочник enum'ов
+- Events / Commands — события и команды
+- CEF UI — интерфейсы
+- FAQ — частые вопросы
 
 ## ⚖️ Правовой статус и Лицензия
 
